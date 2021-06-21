@@ -8,12 +8,12 @@ You can use the website to generate badges: https://shields.io/
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&labelColor=fff&logo=Gmail&logoColor=c4302b)](mailto:bag4sk4r4@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/-WhatsApp-25d366?style=flat&logo=whatsapp&logoColor=white)]( https://api.whatsapp.com/send?phone=6283848020120)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&labelColor=e4405f&logo=instagram&logoColor=white)](https://www.instagram.com/wirra_29/)
- [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/Bagaskara/)
+ [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100008066238761)
 
 &nbsp;
 
 - 👨‍🎓 I'm a junior programmer
-- 🇮🇩  I'm from Indonesia
+- 🇮🇩    I'm from Indonesia
 - 🎸 My hobbies are playing music and badminton
 - 🤔 I'm also interested about UI/UX design 
 <br><br><br><br>
