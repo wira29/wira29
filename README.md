@@ -13,7 +13,7 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 - 👨‍🎓 I'm a junior programmer
-- 🇮🇩    I'm from Indonesia
+- 🔥 I'm from Indonesia
 - 🎸 My hobbies are playing music and badminton
 - 🤔 I'm also interested about UI/UX design 
 <br><br><br><br>
