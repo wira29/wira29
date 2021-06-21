@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 - 🇮🇩  I'm from Indonesia
 - 🎸 My hobbies are playing music and badminton
 - 🤔 I'm also interested about UI/UX design 
-<br><br><br><br><br><br>
+<br><br><br><br>
 ---
 ## Languages and Tools
 <p>
