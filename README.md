@@ -59,37 +59,19 @@ You can use the website to generate badges: https://shields.io/
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   --> 
   <code><img width="20%" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/windows-10.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>  <code><img width="10%" src="https://www.vectorlogo.zone/logos/elementaryio/elementaryio-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></code>
-  <code><img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Manjaro_logo_text.svg/777px-Manjaro_logo_text.svg.png"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>  
  
 </p>
 <br>
 <p>
-  <img width="46%" align="left" alt="Yudas's github stats" src="https://github-readme-stats.vercel.app/api?username=Yudas1337&hide_border=true&layout=compact&amp;show_icons=true&amp;line_height=27&amp;count_private=true&amp;title_color=ffffff&amp;text_color=c9cacc&amp;icon_color=2bbc8a&amp;bg_color=1d1f21" />
- <img width="41%" align="right" alt="Yudas's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yudas1337&hide_border=true&layout=compact&amp;hide=java,html&amp;title_color=ffffff&amp;text_color=c9cacc&amp;icon_color=2bbc8a&amp;bg_color=1d1f21" />
+  <img width="46%" align="left" alt="Yudas's github stats" src="https://github-readme-stats.vercel.app/api?username=wira29&hide_border=true&layout=compact&amp;show_icons=true&amp;line_height=27&amp;count_private=true&amp;title_color=ffffff&amp;text_color=c9cacc&amp;icon_color=2bbc8a&amp;bg_color=1d1f21" />
+ <img width="41%" align="right" alt="Wira's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wira29&hide_border=true&layout=compact&amp;hide=java,html&amp;title_color=ffffff&amp;text_color=c9cacc&amp;icon_color=2bbc8a&amp;bg_color=1d1f21" />
  </p>
  
   
 <br><br><br><br><br><br>
 <br><br><br>
 
----
-## Support me 😅
-<!-- Your support, if you have it 
-I created these images, feel free to use them.
--->
-
-- I'm very happy and grateful if you want to support via donation below . Thanks 💖
-
-<p align="center">
-  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=5MTM7J6G9AYBL" target="_blank">
-      <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
-  </a>
-  <a href="https://www.buymeacoffee.com/Yudas1337" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
-  </a>
-</p>
 
 
 <!--
