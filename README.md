@@ -61,11 +61,6 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>  
  
 </p>
-<br>
-<p>
-  <img width="46%" align="left" alt="Yudas's github stats" src="https://github-readme-stats.vercel.app/api?username=wira29&hide_border=true&layout=compact&amp;show_icons=true&amp;line_height=27&amp;count_private=true&amp;title_color=ffffff&amp;text_color=c9cacc&amp;icon_color=2bbc8a&amp;bg_color=1d1f21" />
- <img width="41%" align="right" alt="Wira's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wira29&hide_border=true&layout=compact&amp;hide=java,html&amp;title_color=ffffff&amp;text_color=c9cacc&amp;icon_color=2bbc8a&amp;bg_color=1d1f21" />
- </p>
  
   
 <br><br><br><br><br><br>
